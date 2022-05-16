@@ -1,0 +1,9 @@
+.body{
+    list-style-type: none;
+   padding: 0px;
+   color: white;
+   background-color: rgb(152, 106, 196);
+    display:flex ;
+    justify-content: center;
+  width: 100%;
+}
